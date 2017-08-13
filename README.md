@@ -10,9 +10,8 @@ Clone the repository and Go to the  Location. Then Install the node modules
 ```bash
 $ npm install
 ```
-## Step 3 - Install Node Modules
+## Step 3 - Run the Appliction
 
-Run the Appliction
 ```bash
 $ ionic serve
 ```
